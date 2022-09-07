@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PersonalApp</string>
+
+    <string-array name="descriptation">
+
+        <item>User</item>
+        <item>Friends</item>
+        <item>Gym</item>
+        <item>Stopwatch</item>
+        <item>Note</item>
+        <item>Settings</item>
+
+
+    </string-array>
+
+</resources>
